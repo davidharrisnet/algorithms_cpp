@@ -1,2 +1,2 @@
 # algorithms
-## In C and maybe C++
+## In C
