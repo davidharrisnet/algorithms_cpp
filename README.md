@@ -1,2 +1,2 @@
 # algorithms
-## In C
+## In C Plus Plus
